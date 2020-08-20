@@ -1,0 +1,10 @@
+b = int(input())
+h = int(input())
+A = int(0.5 * b * h)
+print(A)
+
+
+Output:-
+ 10
+ 20
+100
