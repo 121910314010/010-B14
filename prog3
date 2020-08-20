@@ -1,0 +1,7 @@
+str = "Hello"
+a = input()
+print(str+" "+a)
+
+Output:-
+ manish
+Hello manish
